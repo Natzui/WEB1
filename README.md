@@ -27,3 +27,4 @@ I'm **Nathan Allyn (Natzui)**, a BSIT student who spends too much time thinking 
 
 **Natzui**  
 GitHub: https://github.com/Natzui
+guns: 
